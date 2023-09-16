@@ -1,2 +1,8 @@
 *.zip
+*.rpt
 gerber/
+*-table
+*-cache*
+*_dru
+*_prl
+cache/
