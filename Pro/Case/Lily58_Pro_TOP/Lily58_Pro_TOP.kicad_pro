@@ -293,7 +293,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Lily58_Pro_TOP.step",
